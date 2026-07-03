@@ -28,5 +28,15 @@ Eliminated the need for manual data collection.
 
 5. Power BI Dashboard
 Connected Power BI to the SQL database.
+Created fact and measure thable and star schema.
+Measure table for more than 50+ DAX Queries.
 Designed an interactive dashboard with KPIs, charts, filters, and maps.
 Enabled automatic dashboard refresh whenever new data is added to the database.
+
+👨‍💻 Author
+
+Akash Tiwari
+
+Data Analyst | Python | SQL | Power BI | DAX | Data Visualization
+
+Thank you for visiting this project. Feel free to explore the repository and share your feedback.
